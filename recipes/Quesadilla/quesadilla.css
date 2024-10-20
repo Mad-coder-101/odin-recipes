@@ -7,18 +7,19 @@
 }
 
 h1 {
-    color: #3e362e;
+    color: #123c69;
 }
 
 h2, h4 {
-    color: #865d36;
+    color: #665e61;
     font-weight: 500;
 }
 
 body {
-    background-color: #ac8968;
+    background-color: #edc7b7;
 }
 
 p, ul, ol {
-    color: #5f4e3c;
+    color: #ac3b61;
+    font-weight: 500;
 }
