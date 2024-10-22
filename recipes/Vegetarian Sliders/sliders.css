@@ -1,0 +1,23 @@
+* {
+    font-family: Montserrat;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: #f8e9a1;
+}
+
+h1 {
+    color: #24305E
+}
+
+h4,h2 {
+    color: #374785;
+}
+
+p, ul, ol {
+    color : #f76c6c;
+}
