@@ -11,8 +11,31 @@ h1{
 ul {
     color: rgb(204, 204, 111);
     font-size: 50px;
+    margin: 0 auto;
 }
 
 body {
     background-color: brown;
+}
+
+a {
+    color: rgb(204, 204, 111);
+    font-size: 50px;
+    text-align: center;
+
+    display: block;
+    background: #6b5b95;
+    margin-bottom: 8px;
+    padding: 10px;
+}
+
+.recipes {
+    width: 700px;
+    background: #d6cbd3;
+    padding: 8px;
+    margin: 0 auto;
+}
+
+#last {
+    margin-bottom: 0px;
 }
